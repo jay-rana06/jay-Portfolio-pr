@@ -1,0 +1,33 @@
+.hero{
+    margin-top: 100px;
+}
+
+.hero h3{
+    margin-top: 3rem;
+    font-size: 40px;
+}
+.hero p{
+    padding-top: 1rem;
+    font-size: 22px;
+    font-style: oblique ;
+}
+
+.hero button{
+    margin-top: 2rem;
+    padding: 8px 15px;
+    font-size: 15px;
+    border-radius: 50px;
+    border: 3px solid rgb(51, 58, 63);
+    background-color: #fff;
+}
+
+.hero button:hover{
+    background-color:lightgray ;
+    transition: all 0.3s ease-in-out;
+}
+
+.hero img{
+    border-radius: 15px;
+}
+
+

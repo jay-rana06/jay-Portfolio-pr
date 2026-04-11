@@ -1,0 +1,43 @@
+.testimonial{
+    background: #f6f2f2;
+    margin-top: 5rem;
+}
+
+.testimonial .card{
+    margin: 10px;
+    border-radius: 15px;
+    background: #f2f1f1;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    padding: 10px;  
+}
+
+.testimonial .card:hover{
+    margin: 15px;
+    transition: all .3s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.testimonial h2{
+    padding-top: 1rem;
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+}
+
+.testimonial p{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.testimonial button{
+    margin-top: 2rem;
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+.testimonial button:hover{
+    background:lightgray;
+    transition: all 0.3s ease-in-out;
+}

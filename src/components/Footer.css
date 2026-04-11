@@ -1,0 +1,109 @@
+.footer{
+    margin-top: 3rem;
+    background: #474e57;
+    height: 28rem;
+}
+
+.footer .team{
+    margin: 2rem;
+}
+
+.footer h2{
+    color: black;
+    font-size: 30px;
+}
+
+.footer h2 span{
+    color: orangered;
+}
+
+.footer p{
+    padding-top: 2rem;
+    line-height: 16px;
+    color: antiquewhite;
+}
+
+.footer .team h3{
+    font-size: 18px;
+}
+
+.footer .team h4{
+    margin-top: 8px;
+    color: antiquewhite;
+}
+
+.footer h1{
+    color: antiquewhite;
+    font-size: 15px;
+    margin-top: 1rem;
+}
+
+.footer input{
+    padding: 5px 2rem;
+    margin-top: 1.5rem;
+    border: 0;
+    background-color: lightcyan;
+    border-radius: 25px;
+}
+.footer button{
+    margin-top: 1rem;
+    padding: 4px 10px;
+    background: blue;
+    font-size: 16px;
+    border-radius: 25px;
+    border: 0px solid black;
+}
+
+.footer button:hover{
+    background: rgba(0, 0, 255, 0.505);
+    color: #fff;
+}
+.footer hr{
+    width: 100%; 
+}
+
+.footer .social{
+    color: #fff;
+    margin-top: 3rem;
+    font-size: 35px;
+}
+
+.footer .icon{
+    margin-top: 3.5rem;
+    justify-self: end;
+    background: transparent;
+    font-size: 20px;
+}
+
+.footer .icon a{
+    padding-left: 1rem;
+    background-color: #b0b2b4ac;
+    padding: 5px;
+    border-radius: 25px;
+    margin-left: 1rem;
+}
+
+.footer .icon a:hover{
+    background: #b0b2b4;
+}
+.hr1{
+    margin-top: 2rem;
+}
+
+.footer .policy{
+    margin-top: 2rem;
+}
+
+.footer .policy h5{
+    color: rgb(255, 255, 255);
+    padding-left: 15px;
+}
+
+.footer .rights{
+    margin-top: 2rem;
+    justify-self: end;
+    color: #fff;
+}
+
+
+
